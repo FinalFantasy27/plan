@@ -20,7 +20,7 @@
 
 > “For now, many people would say, "It's (It is)* the best time of our lives!"
 
-“*读作“It is””；
+> “*读作“It is””；
 
 “|”或空格表示读法的停顿，例如《在告解室》：   
 
