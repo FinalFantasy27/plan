@@ -1,11 +1,5 @@
-## my writing plan
-
-
-<br/>
 
 ### Basic Syntax
-
-
 
 <br/>
 
