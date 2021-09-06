@@ -23,6 +23,8 @@ Wikipedia
 
 杨继蝇《中国改革年代的政治斗争》，天地图书出版社，2004
 
+[李锐（mao前秘书）评小学生](https://upload.wikimedia.org/wikipedia/commons/9/95/Li_Rui%27s_interview_with_VOA_on_13_April_2018.webm)
+
 (南斯拉夫)密洛凡·德热拉斯《新阶级》（内部读物），陈逸 译，世界知识出版社，1963
 
 (匈)亚诺什·科尔内(Janos Kornal)《短缺经济学》，张晓光等 译，经济科学出版社，1986
