@@ -5,6 +5,10 @@
 
 ### Basic Syntax
 
+### Universe/setting/timeline(recurrence, Return, circle)
+
+details may be in vision.
+
 <br/>
 
 ### 符号说明
@@ -39,3 +43,5 @@
 <br/>
 
 [^1]: corner quotes, also called "Quine quotes"; for quasi-quotation, i.e. quoting specific context of unspecified ("variable") expressions
+
+宇宙/世界观（复归、轮回、循环）
