@@ -44,4 +44,4 @@ details may be in vision.
 
 [^1]: corner quotes, also called "Quine quotes"; for quasi-quotation, i.e. quoting specific context of unspecified ("variable") expressions
 
-宇宙/世界观（复归、轮回、循环）
+宇宙/世界观/时间线（复归、轮回、循环）
