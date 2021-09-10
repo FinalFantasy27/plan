@@ -1,1 +1,39 @@
 
+Peirce's work and notations were much better known to contemporary logicians, and we had to wait for Russell to reintroduce Frege's first ‘discovery’ of quantifiers (Putnam 1982). For example, Ernst Schröder's Vorlesungen über die Algebra der Logik (1895) adopted Peirce's notation. Hence, strictly speaking, the Frege-first view seems to be a more recent phenomenon than Peirce's/Frege's era.
+sep: peirce's logic
+
+“2.蕴涵：如果（花体字1）为真，并且公式（花体字1）→（花体字2）为真，则（花体字2）为真。 第二个规则称为演绎推理(modus ponens) ， 它看上去是显而易见的， 但是事实上， 它必须是公理。你不能推导出它。如果你非得认为你能做到、那么可以看看刘易斯卡罗尔的短文《龟对阿基里斯说了什么》。” （《|book:10779604|图灵的秘密|》第12章）
+
+“ce".We know that this assertion, this exchange of letters, was known to Husserl, because Husserl had made excerpts from the correspondence, which entail just this part of the dispute.But not only this.Husserl also added the remark: "Frege does not understand the sense (Sinn) of Hilbert's 'axiomatic' foundation of geometry.” 
+husserl and hilbert on completeness
+
+"And it is not easily squared with the fact that during his philosophically most productive period, Russell used the terminology only to express his agreement with Kant that mathematics is synthetic, while holding that, contrary to Kant, logic is as synthetic as mathematics.
+
+······
+
+"2 Principles, p. 457. For a discussion of Russell and Kant, see Coffa [1981]."(Oxford Handbook of Philosophy of Mathematics and Logic, p130)
+
+Russell, B. [1903]: The principles of mathematics, London: Allen and Unwin
+
+Coffa, A. [1981]: ‘‘Russell and Kant,’’ Synthese , 46, pp. 246–264.
+
+"instead of arguing continually over this point it is usual to have the polite convention that everyone thinks"
+
+“一、数学跟逻辑分了家。数学只在逻辑之上而不在逻辑之内，可以有不在逻 辑中定义的数学概念、不在逻辑中证明的数学原理。“大数学”集合论取代了“大逻辑”PM。”康宏逵《王浩来信摘抄》
+
+"in order to do mathematical logic, we need a basic understanding of words over a finite alphabet. We cannot build a theory from less than that." … "exactly! We suspend our disbelief for a bit, and try to 'simulate' set theory, and then construct numbers and so on in this make-believe universe. We already assumed numbers but that was "in the real world". Two ways to think about this: If we forego any notion of "meaning", then we are not constructing numbers, just manipulating strings to get other strings. This dissolves the question.…" … https://mathoverflow.net/questions/47399/dont-the-axioms-of-set-theory-implicitly-assume-numbers
+
+I call this the logic-metalogic link. There are two facets to the logic-metalogic link. First, when a logic is entangled with a substantive issue, the same position on that issue should be taken at the meta- level as at the object level; and second, if an expression has a clear meaning in natural language, then the corresponding concept can equally well be deployed in a formal language.
+
+Published: 19 December 2016
+Second-order Logic and the Power Set
+Ethan Brauer 
+Journal of Philosophical Logic volume 47, pages123–142 (2018)Cite this article
+
+639 Accesses
+
+1 Citations
+
+2 Altmetric
+
+Metrics
