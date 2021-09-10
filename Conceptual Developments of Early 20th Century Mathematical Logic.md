@@ -2,6 +2,14 @@
 
 <br/><br/>
 
+GEORGE, A., 'Skolem and the Lowenheim-Skolem Theorem: A Case Study of the Philosophical Significance of Mathematical Results.' History and Philosophy of Logic 6 (1985): 75-89. [http://dx.doi.org/10.1080/01445348508837077]
+
+MCINTOSH, C., 'Skolem's Criticisms of Set Theory', Noûs, 13 (1979), 313-334.  
+
+SKOLEM, T., 'Some Remarks on Axiomatised Set Theory', in From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931, ed. by J. van Heijenoort (Cambridge, Massachusetts: Harvard University Press, 1967). [esp. § 3; locus classicus of the paradox]
+
+WRIGHT, C., 'Skolem and the Skeptic', Aristotelian Society Supplementary Vol., 59 (1985). Also in S. Shapiro, ed., The Limits of Logic (Aldershot: Dartmouth, 1996) [§ IV] 
+
 Peirce's work and notations were much better known to contemporary logicians, and we had to wait for Russell to reintroduce Frege's first ‘discovery’ of quantifiers (Putnam 1982). For example, Ernst Schröder's Vorlesungen über die Algebra der Logik (1895) adopted Peirce's notation. Hence, strictly speaking, the Frege-first view seems to be a more recent phenomenon than Peirce's/Frege's era.
 sep: peirce's logic
 
