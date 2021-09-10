@@ -47,3 +47,7 @@ details may be in vision.
 宇宙/世界观/时间线（复归、轮回、循环）
 
 奇情
+
+<br/><br/>
+
+![](https://raw.githubusercontent.com/FinalFantasy27/FinalFantasy27/main/images/QQ%E5%9B%BE%E7%89%8720210910230555.png)
