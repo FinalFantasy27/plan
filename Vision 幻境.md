@@ -37,6 +37,12 @@ Our ontology of arbitrary objects goes a long way to providing a face-value sema
 sentences. We suggest that there are many additional applications of FM to formal semantics, for
 example we argue it will provide a simple semantics for binding theory in general.
 
+男女形象在特定文化下附着的印象
+
+truth becomes fiction when the fiction's true.
+Real becomes unreal when the unreal's real
+(CaoXueqin, translated by David Hawkes)
+
 “看哪，小睡神今天是一个宇航员”
 
 我们看到，在《再见列宁》里——直到最后之前，叙事者（主人公Alex）都不知道她的母亲其实在最后已经知道了真相，而这是我们所能看见叙事者却没有看见的
