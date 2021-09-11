@@ -7,7 +7,7 @@
 
 ### Universe/setting/timeline(recurrence, Return, circle)
 
-details may be in vision.
+details in vision may.
 
 <br/>
 
