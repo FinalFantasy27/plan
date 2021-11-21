@@ -1,6 +1,8 @@
 
 ## My writing plan
 
+> “我要在这里漫无顺序地写下我的思想，但也许并非是一种毫无计划的混乱不堪：这才是真正的顺序所在，它将永远以无顺序的本身表明我的对象。”【帕斯卡尔，《思想录》，何兆武译，中国国际广播出版社2009，第165页】
+
 ### and 4000+ pictures and 300+ files of source material still waiting for uploading
 
 ### Basic Syntax
