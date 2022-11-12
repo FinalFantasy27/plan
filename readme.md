@@ -52,4 +52,4 @@ details in vision may.
 
 <br/><br/>
 
-![](https://raw.githubusercontent.com/FinalFantasy27/FinalFantasy27/main/images/5.png.png)
+![](https://raw.githubusercontent.com/FinalFantasy27/FinalFantasy27/main/images/5.png)
